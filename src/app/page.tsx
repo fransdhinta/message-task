@@ -520,7 +520,8 @@ export default function Home() {
 												})
 												.map((dt: any, idx: number, arr: Array<any>) => {
 													return (
-														<div
+                            <div
+                              key={ idx}
 															style={{
 																display: "flex",
 																flexDirection: "column",
