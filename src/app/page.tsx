@@ -1333,6 +1333,7 @@ export default function Home() {
 								</Fab>
 							</div>
 						</Grid>
+						<Button>ALOHA</Button>
 						{/* MAIN BUTTON */}
 					</div>
 				</Grid>
